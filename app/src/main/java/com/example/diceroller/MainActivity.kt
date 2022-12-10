@@ -25,6 +25,7 @@ class MainActivity : ComponentActivity() {
             }
         }
     }
+    val testingGit = "Need to make change for new commit"
 }
 
 @Preview(
